@@ -1,0 +1,140 @@
+neneneee.e
+eneeneen.n
+nneennen.e
+e.enennnen
+enenne.en.
+.een.nnene
+nneen.e.ne
+.enne..ene
+nnennee.e.
+ennnennnne
+cycle: 0                                                       
+moves this cycle: 0                                                       
+overall "happiness": 0.4196                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+.e.e.ee.n.
+..ee.eennn
+..ee...nn.
+eee.ennnen
+enenneeene
+neennnnene
+nneennenne
+nenneneene
+nnenneeeen
+ennnennnne
+cycle: 1                                                       
+moves this cycle: 15                                                      
+overall "happiness": 0.5583                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeeeneeene
+eeeeeeennn
+eeeeeeenne
+eeen.nnn.n
+e.enn...n.
+neennnn.n.
+nne.nn.nn.
+n.nn.nee.e
+nnenneeeen
+ennnennnne
+cycle: 2                                                       
+moves this cycle: 15                                                      
+overall "happiness": 0.6524                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeee.ee.n.
+eeeeeeennn
+eeeeee.nn.
+eee.n.nnen
+eeenneennn
+.eennnnnne
+nn.ennenne
+nennnneee.
+nn.nn..ee.
+.nnnennnne
+cycle: 3                                                       
+moves this cycle: 15                                                      
+overall "happiness": 0.7082                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeeeneeene
+eeeeeeennn
+eeeeeeenne
+eeee.enn.n
+eeenn..nnn
+eeennnnnn.
+nne.nn.nn.
+n.nnnn.eee
+nnennn.ee.
+.nnn.nnn.e
+cycle: 4                                                       
+moves this cycle: 12                                                      
+overall "happiness": 0.7681                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeee.ee.n.
+eeeeeeennn
+eeeeeeenn.
+eeeene.nen
+eeenneennn
+eeennnnnnn
+n..nnnenne
+nnnnnn.eee
+nn.nnn.ee.
+.nnn.nn..e
+cycle: 5                                                       
+moves this cycle: 9                                                       
+overall "happiness": 0.8097                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeeeneeenn
+eeeeeeennn
+eeeeeeenne
+eeee.een.n
+eee.n..nnn
+eeennnnnnn
+neennn.nn.
+nnnnnn.eee
+nn.nnn.ee.
+.nnn.nn..e
+cycle: 6                                                       
+moves this cycle: 7                                                       
+overall "happiness": 0.8303                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeee.ee.nn
+eeeeeeennn
+eeeeeeenn.
+eeeeneenen
+eeeennennn
+eeennnnnnn
+.e.nnn.nn.
+nnnnnn.eee
+nn.nnn.ee.
+.nnn.nn..e
+cycle: 7                                                       
+moves this cycle: 5                                                       
+overall "happiness": 0.8383                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeeeneeenn
+eeeeeeennn
+eeeeeeenne
+eeee.een.n
+eeeenn.nnn
+eeennnnnnn
+.e.nnn.nn.
+nnnnnn.eee
+nn.nnn.ee.
+.nnn.nn..e
+cycle: 8                                                       
+moves this cycle: 3                                                       
+overall "happiness": 0.8406                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%
+eeee.ee.nn
+eeeeeeennn
+eeeeeeenn.
+eeeeneenen
+eeeennennn
+eeennnnnnn
+.e.nnn.nn.
+nnnnnn.eee
+nn.nnn.ee.
+.nnn.nn..e
+cycle: 9                                                       
+moves this cycle: 3                                                       
+overall "happiness": 0.8383                                                  
+dim: 10, threshold:  50%, vacancy:  15%, endlines:  50%

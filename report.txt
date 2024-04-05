@@ -1,0 +1,57 @@
+Assignment Report
+Assignment name:  Bracetopia
+
+My name is:      Zachary Szelc
+My username is:  zjs3854
+
+[insert your answers after the question and add more lines as needed.]
+
+[PLEASE MAKE YOUR ANSWERS SHORT AND TO THE POINT. BULLET POINTS ARE GOOD.]
+
+============= PROGRAM STATUS ==============
+
+What is the status of the program?
+Does it: put an X inside the [] to characterize your answer
+	[ ] crashes
+	[ ] infinite loops when it should not
+	[ ] works only in 'print' mode
+	[x] works fine
+	[ ] only implemented these options: [list them below]
+	[ ] other. Explain below.
+
+
+How does your move algorithm work? Describe briefly in English.
+
+My Move algorithm does exactly as the project envisions. I make a second character array and copy everything from the first map to the second one. 
+Then for every symbol in the first map if one is unhappy it will look for a new spot in the second map backwords and place it there if it is vacant in both the first in second map.
+
+
+============= SIMULATION ANALYSIS ==============
+
+What did you find most revealing about the simulation?
+This was similar to the Gam of like homework but just had a few minor tweaks to it to make it its own thing.
+
+
+
+============= GENERAL PROJECT FEEDBACK ==============
+
+What did I learn?
+I leaned how to use the sleep function in c and how to take out certain things from the command line. I also leared how to use curses.h on a c file.
+
+
+What was easy about this assignment?
+This one was similar to the game of life. It just took time to put a different spin on the game of life. For running the program with cycles.
+
+
+What gave you problems or troubles?
+Checking if in the original map and the second one for the empty spaces. Also the use of curses.h was difficult to understand when initially but I got through it fairly fast.
+
+
+What should the instructor do to improve this assignment?
+This assignment was really close to the previous one and was only just time consuming.
+
+
+What would you have liked to do in this assignment?
+I have no input for this current question. The assignment was fairly decent and I had no issues.
+
+

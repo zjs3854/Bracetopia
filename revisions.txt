@@ -1,0 +1,29 @@
+commit a55496be84284a11cd6fc7fe4b0e7799dee56e55
+Author: Zach J Szelc <zjs3854@cs.rit.edu>
+Date:   Thu Oct 26 10:57:32 2023 -0400
+
+    Finished documentation and it runs smoothly
+
+commit 7c0af52f7d534bdb1e5fce6caefaf3fd7dbc9d6c
+Author: Zach J Szelc <zjs3854@cs.rit.edu>
+Date:   Wed Oct 25 16:06:12 2023 -0400
+
+    Finished infinite loop and error checking
+
+commit 57634481b5d4a271a4968531a4b7edb74d5920d5
+Author: Zach J Szelc <zjs3854@cs.rit.edu>
+Date:   Tue Oct 24 16:13:26 2023 -0400
+
+    Program runs and staring documentation
+
+commit 851d1faae3e4175c8db8c01a62cd8e61fc4072cd
+Author: Zach J Szelc <zjs3854@cs.rit.edu>
+Date:   Tue Oct 24 16:10:29 2023 -0400
+
+    Move function works
+
+commit be5e922ba7da948604ac957885b2e8daf68b9671
+Author: Zach J Szelc <zjs3854@cs.rit.edu>
+Date:   Mon Oct 23 16:40:20 2023 -0400
+
+    First init
